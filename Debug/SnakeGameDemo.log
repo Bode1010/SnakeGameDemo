@@ -1,0 +1,19 @@
+﻿  Fruit.cpp
+c:\users\olabo\source\repos\snakegamedemo\snakegamedemo\fruit.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\olabo\source\repos\snakegamedemo\snakegamedemo\fruit.cpp(14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Snake.cpp
+  SnakeGameDemo.cpp
+c:\users\olabo\source\repos\snakegamedemo\snakegamedemo\snakegamedemo.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\olabo\source\repos\snakegamedemo\snakegamedemo\snakegamedemo.cpp(138): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\olabo\source\repos\snakegamedemo\snakegamedemo\snakegamedemo.cpp(183): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\olabo\source\repos\snakegamedemo\snakegamedemo\snakegamedemo.cpp(192): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  SnakeGameDemo.vcxproj -> C:\Users\olabo\source\repos\SnakeGameDemo\Debug\SnakeGameDemo.exe
