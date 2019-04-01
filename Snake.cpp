@@ -1,6 +1,4 @@
 #include "Snake.h"
-#include <iostream>
-using namespace std;
 //Initializes the snake by setting the properties of the snakes' 3(length) body nodes.
 Snake::Snake()
 {
