@@ -1,5 +1,4 @@
 #include "Fruit.h"
-#include <iostream>
 
 Fruit::Fruit(float moveSp, int gridWidth, int gridHeight)
 {
